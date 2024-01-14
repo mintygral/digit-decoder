@@ -4,15 +4,13 @@ This project creates a visual interface that allows users to draw handwritten di
 
 ## Files:
 train_model.py: Contains the code for training the TensorFlow model using the MNIST dataset.
+
 digit_recognizer.py: Contains the code for the graphical user interface and digit recognition functionality.
+
 best_model.h5: The saved trained model used for prediction.
 
 ## Dependencies:
-TensorFlow
-Keras
-NumPy
-Tkinter
-Pillow
+TensorFlow, Keras, Tkinter, PIL, NumPy
 
 ## Usage:
 Run digit_recognizer.py to start the application.
