@@ -1,6 +1,6 @@
 # Handwritten-Digit-Recognizer
 
-This project creates a visual interface that allows users to draw handwritten digits on a canvas and have those digits recognized using a trained machine learning model.
+I made this project for my ENGR 133 class. This program creates a visual interface that allows users to draw handwritten digits on a canvas and have those digits recognized using a trained machine learning model.
 
 ## Files:
 train_model.py: Contains the code for training the TensorFlow model using the MNIST dataset.
